@@ -11,11 +11,11 @@ build:
 
 requirements:
   build:
-    - python
+    - python=3.8
     - setuptools
 
   run:
-    - python
+    - python=3.8
     - rdkit
     - scikit-learn
 
